@@ -21,7 +21,8 @@
  *    nowo zdefiniowanej tablicy3.
  * 
  * 5. Zdefiniowac tablice zawierajaca elementy typu char, zainicjowac dowolnymi znakami
- *    np. char znaki[] = {'L','a','b','o','r','k','a','','P','P','K'};
+ *    np. char znaki[] = {'L','a','b','o','r','k','a','','P','P','K',0};
+ *    Przyjac, ze ostatnim elementem tablicy jest zawsze wartosc 0.
  *    Wyświetlic napis na konsoli.
  * 
  * 6. Zamienic wszystkie litery z tablicy znaki z malych na duze, z duzych na male.
