@@ -32,5 +32,9 @@
  *    Wyświetlic wynik na konsoli.
  * 
  * 8. Wyszukac w tablicy znaki pierwsza litere np. 'a' i wyswietlic jej indeks.
- * 
+ *
+ * 9. Zdefiniowac tablice dwuwymiarowa NxN, zainicjowac przykladowymi wartosciami.
+ *    Wyswietlic tablice na konsoli.
+ *    Napisac fragment kodu zamieniajacy miejscami wiersze i kolumny tablicy.
+ *    Wyswietlic tablice na konsoli. 
  */
