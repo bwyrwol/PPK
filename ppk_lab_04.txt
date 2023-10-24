@@ -1,0 +1,25 @@
+/*
+ * Laboratorium 3 - funkcje
+ * 
+ * Zadania
+ * 
+ * 1. Zdefiniowac funkcje wyznaczajaca (zwracajaca) wartosc bezwzgledna podanego
+ *    argumentu.
+ * 
+ * 2. Zdefiniowac funkcje (trzy), ktora sprawdza czy podany znak jest cyfra 
+ *    (duza litera, mala litera).
+ * 
+ * 3. Zdefiniowac funkcje, ktora wyznacza silnie z podanej liczby.
+ * 
+ * 4. Zdefiniowac funkcje, ktora wyznacza sume liczb calkowitych od 1 do n,
+ *    gdzie n jest argumentem funkcji.
+ *    
+ * 5. Zdefiniowac funkcje wyznaczajaca pole trojkata/trapezu/prostokata/kola
+ *    dla podanych argumentow (osobne lub jedna funkcja).
+ *
+ * 6. Zdefiniowac funkcje, ktora wyznacza pierwiastki rownania kwadratowego.
+ * 
+ * 7. Zdefiniowac funkcje, ktora zamienia maly znak na duzy, a duzy na maly.
+ *    Argument przekazac przez referencje.
+ * 
+ */
