@@ -1,0 +1,37 @@
+/*
+ * Laboratorium 6 - Katalog ocen
+ * 
+ * Zadanie
+ * 
+ * 1. Napisaæ program do obs³ugi dziennika ocen dla jednego ucznia z jednego
+ *    przedmiotu. Oceny oraz kod aktywnoœci przechowywane s¹ w dwóch tablicach:
+ *    oceny[] oraz kod_aktywnosci[]. Za³o¿yæ, ¿e oceny bêd¹ z zakresu 0-6
+ *    z mo¿liwoœci¹ wstawiania ocen po³ówkowych (np. 4.5), natomiast aktywnoœci
+ *    kodowane bêd¹ za pomoc¹ znaków: 'K' - kartkówka, 'S' - sprawdzian, 'D' -
+ *    zadanie domowe, 'P' - karta pracy, 'O' - odpowiedŸ ustna, 'I' - inne.
+ *    Za³o¿yæ, ¿e maksymalna liczba ocen w semestrze nie przekroczy 30
+ *    (najlepiej zdefiniowaæ sta³¹ constexpr i z niej korzystaæ), a indeks w
+ *    tabelach okreœla ocenê oraz jej kod.
+ *
+ * 2. Napisaæ funkcje do obs³ugi dziennika: dodanie oceny (na koñcu dziennika),
+ *    usuniêcie oceny (o podanym indeksie), wyœwietlenie ocen (wszystkich,
+ *    najlepiej w postaci fajnej tabelki:), obliczenie œredniej wa¿onej z ocen
+ *    uwzglêdniaj¹c ich wagi (K:3, S:4, D:2, P:3, O:2, I:1). Uwzglêdniæ sytuacje
+ *    nietypowe, np. dodanie oceny do dziennika zape³nionego, usuniêcie oceny
+ *    z pustego dziennika...
+ *
+ * 3. Utworzyæ plik nag³ówkowy dziennik.h oraz implementacyjny dziennik.cpp.
+ *    Przenieœæ wszystkie funkcje z pliku g³ównego projektu do tych plików
+ *    zgodnie z zasadami:) Zamieœciæ komentarze w formacie DoxyGen-a.
+ *
+ * 4. Uzupe³niæ program o mo¿liwoœæ zapisywania ocen (z kodami) w pliku
+ *    tekstowym w formacie: kod<spacja>ocena, za³o¿yæ, ¿e w ka¿da z ocen 
+ *    znajdowaæ siê bêdzie w osobnej linii.
+ *
+ * 5. Umo¿liwiæ wywo³ywanie programu z parametrem - nazw¹ pliku z ocenami np.
+ *    dziennik_ocen.exe Jas_Fasola_kl_2A_matematyka.txt
+ *    Za³o¿yæ, ¿e plik mo¿e byæ pusty lub zawieraæ ju¿ dane. W tym drugim
+ *    przypadku podczas odczytu ocen oraz kodu sprawdzaæ poprawnoœæ
+ *    odczytywanych danych.
+ *
+ */
