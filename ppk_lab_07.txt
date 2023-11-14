@@ -1,0 +1,51 @@
+/*
+ * Laboratorium 7 - vector, string, struktury, pair, tuple
+ *
+ * 1A. Zdefiniowaæ w programie zmiann¹ typu vector zawieraj¹c¹ elementy typu int
+ *     zainicjowaæ przyk³adowymi wartoœciami (kilkoma, wykorzystaæ listê 
+ *     inicjalizuj¹c¹). Wyœwietliæ na konsoli wszystkie elementy wektora:
+ *     - klasyczn¹ pêtl¹ for(...),
+ *     - pêtl¹ zakresow¹ for(...) z iteratorem wewnêtrznym,
+ *     - pêtl¹ zakresow¹ for(...) z iteratorem zewnêtrznym.
+ *
+ * 1B. Sprawdziæ jaki jest rozmiar (size) i pojemnoœæ (capacity) zdefiniowanego
+ *     wektora. Dodaæ jeden element do wektora (push_back), sprawdziæ jak
+ *     zmieni³y siê rozmiar i pojemnoœæ.
+ * 
+ * 2.  Zdefiniowaæ w programie strukturê Punkt opisuj¹c¹ wspó³rzêdne (x,y) 
+ *     punktu w kartezjañskim uk³adzie wspó³rzêdnych. Zdefiniowaæ kilka 
+ *     zmiennych typu Punkt i przypisaæ im przyk³adowe wartoœci. 
+ *     Napisaæ funkcje:
+ *     - sprawdzaj¹c¹, w której æwiartce uk³adu wspó³rzêdnych znajduje siê
+ *       dany punkt,
+ *     - obliczaj¹c¹ odleg³oœæ miedzy dwoma punktami.
+ *
+ * 3.  Wczytaæ z klawiatury dowolny tekst (kilka wyrazów oddzielonych spacjami).
+ *     Zamieniæ kolejnoœæ wyrazów w tekœcie i wyœwietliæ wynik na konsoli.
+ *     Zamieniæ kolejnoœæ liter w ka¿dym wyrazie i wyœwietliæ wynik w oknie
+ *     konsoli.
+ * 
+ * 4. Opracowaæ wersjê z punktu 2 wykorzystuj¹c¹ zamiast struktury parê (pair).
+ * 
+ * 5. Napisaæ program wczytuj¹cy wspó³rzêdne punktów (dowolna liczba), 
+ *    zapamiêtaæ je w wektorze, a nastêpnie wyznaczyæ d³ugoœæ tak podanej 
+ *    œcie¿ki (najlepiej opracowaæ funkcjê). Wykorzystaæ pêtle zakresowe.
+ * 
+ * 6. Napisaæ program wyznaczaj¹cy wszystkie odleg³oœci pomiêdzy miastami
+ *    (dla uproszczenia wspó³rzêdne jak w uk³adzie kartezjañskim). Miasta
+ *    i ich po³o¿enia dostêpne s¹ w pliku tekstowym w formacie (przyk³ad): 
+ * 
+ *    MiastoA 12.5 15
+ *    MiastoB -15 22
+ *    ...
+ * 
+ *    Dane odczytane z pliku zapamiêtaæ w krotce (tuple), wyniki wyœwietliæ
+ *    w oknie konsoli w przyk³adowym formacie:
+ * 
+ *    MiastoA-MiastoB: 25
+ *    ...
+ * 
+ *    Sprawdziæ czy miasto zaczyna siê du¿¹ liter¹, jeœli nie to zmieniæ na 
+ *    wielk¹ literê.
+ *    Wykorzystaæ, o ile bêd¹, pêtle zakresowe:)
+ */
