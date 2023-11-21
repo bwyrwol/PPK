@@ -1,0 +1,39 @@
+/*
+ * Laboratorium 8 - vector, string, struktury, pair, tablice asocjacyjne
+ *
+ * Z poprzednich zajêæ
+ * **  Zdefiniowaæ w programie strukturê Punkt opisuj¹c¹ wspó³rzêdne (x,y)
+ *     punktu w kartezjañskim uk³adzie wspó³rzêdnych. Zdefiniowaæ kilka 
+ *     zmiennych typu Punkt i przypisaæ im przyk³adowe wartoœci. 
+ *     Napisaæ funkcje:
+ *     - sprawdzaj¹c¹, w której æwiartce uk³adu wspó³rzêdnych znajduje siê
+ *       dany punkt,
+ *     - obliczaj¹c¹ odleg³oœæ miedzy dwoma punktami.
+ * 
+ * 4. Opracowaæ wersjê z punktu 2 wykorzystuj¹c¹ zamiast struktury parê (pair).
+ * 
+ * =============================================================================
+ *
+ * 1. Napisaæ funkcjê, która sprawdza czy ³añcuch znaków zaczyna siê z du¿ej
+ *    litery, a koñczy kropk¹, je¿eli nie to poprawia go. Funkcja zwraca
+ *    informacjê czy ³añcuch zosta³ poprawiony.
+ *
+ * 2. Napisaæ funckjê, która w ³añcuchu znaków zamieni kolejnoœæ znaków:
+ *    a) w ca³ym ³añcuchu,
+ *    b) w ka¿dym wyrazie ³añcucha (o ile w ³añcuchu s¹ wyrazy oddzielone
+ *       spacjami).
+ *
+ * 3. Wykorzystuj¹c tablice asocjacyjne (i inne dowolne kontenery) utworzyæ
+ *    ksi¹¿kê telefoniczn¹, z mo¿liwoœci¹ wyszukiwania, zawieraj¹c¹ pola:
+ *    - nazwisko, imiê,
+ *    - numery telefonów wraz z dodatkow¹ informacj¹ (Praca, Dom, Komorka, Inny)
+ *    Utworzyæ proste menu pozwalaj¹ce:
+ *    - wyœwietliæ wszystkie rekordy,
+ *    - wyszukiwaæ rekordy wg numeru lub nazwiska, w przypadku nie znalezienia
+ *      program proponuje dodanie nowego rekordu,
+ *    * wyœwietlanie/wyszukiwanie wg klucza zawieraj¹cego tylko pocz¹tkowe
+ *      litery nazwiska lub pocz¹tkowe cyfry numeru.
+ *    * dodaæ opcjê zapisu/odczytu rekordów do/z pliku.
+ *    O ile to mo¿liwe utworzyæ funkcje do realizacji odpowiednich operacji.
+ *
+ */
