@@ -1,0 +1,43 @@
+/*
+ *=============================================================================
+ * WskaŸnik na funkcjê
+ *============================================================================= 
+ * 1. Zdefiniowaæ funkcje: suma, roznica, iloczyn, iloraz.
+ * 
+ * 2. Zadeklarowaæ strukturê menu_option zawieraj¹ca pola:
+ *    - name - nazwa opcji menu (string)
+ *    - wskaŸnik na funkcjê realizuj¹ca dan¹ opcjê menu
+ * 
+ * 3. W programie g³ównym zdefiniowaæ tablicê struktur zawieraj¹c¹ 4 elementy.
+ *    Przypisaæ nazwy opcji menu oraz zdefiniowane funkcje z p.1.
+ * 
+ * 4. Zdefiniowaæ funkcjê display_menu wyœwietlaj¹c¹ wszystkie zdefiniowane opcje menu.
+ * 
+ * 5. Napisaæ program wczytuj¹cy dwie liczby, wyœwietlaj¹cy menu, a po wybraniu dostêpnej
+ *    opcji wyznaczaj¹cy wynik wybranego dzia³ania.
+ *
+ *=============================================================================
+ * Funkcja LAMBDA
+ *============================================================================= 
+ * 1. Zdefiniowaæ funkcjê wyœwietlaj¹c¹ na konsoli jedn¹ liczbê typu int
+ *    void print(const int i);
+ *    np. w postaci: [3]
+ * 
+ * 2. Zdefiniowaæ funkcjê wyœwietlaj¹c¹ wszystkie elementy wektora
+ *    void vector_print(const std::vector<int>& vec);
+ *    wykorzystaæ pêtlê for_each i zdefiniowan¹ wczeœniej funkcjê print.
+ * 
+ * 3. Zdefiniowaæ w programie wektor i nadaæ mu kilka wartoœci (minimum 5).
+ *    Wyœwietliæ elementy wektora funkcj¹ vector_print().
+ * 
+ * 4. Za pomoc¹ pêtli for_each zamieniæ wszystkie elementy wektora na przeciwne.
+ *    Wykorzystaæ funkcjê Lambda. Wyœwietliæ wynik funkcj¹ vector_print().
+ * 
+ * 5. Wyœwietliæ, wykorzystuj¹c pêtlê for_each, wszystkie elementy wektora
+ *    mniejsze od pewnej wartoœci (funkcja Lambda z parametrem).
+ * 
+ * 6. Posortowaæ wektor (sort(...)) zgodnie z wartoœci¹ modu³u liczby, ale
+ *    wyœwietliæ liczby z formatem pierwotnym np. dla -10,20,-3,5,1 wynikiem
+ *    powinno byæ: 1,-3,5,-10,20. Wykorzystaæ pêtlê for_each z odpowiednio
+ *    skonstruowan¹ funkcj¹ Lambda.
+ */
