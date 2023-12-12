@@ -1,0 +1,26 @@
+/*
+ *=============================================================================
+ * Wektor (vector) i ³añcuchy znaków (string)
+ *============================================================================= 
+ * 1. Zdefiniowaæ wektor ³añcuchów znaków i przypisaæ przyk³adowe ³añcuchy
+ *    (w tym przynajmniej jeden dos³owny tj. R"(...)").  
+ * 
+ * 2. Wyœwietliæ wszystkie ³añcuchy z wektora wykorzystuj¹c iterator oraz 
+ *    iterator wsteczny (czyli od pocz¹tku oraz od koñca).
+ * 
+ * 3. Wyœwietliæ wszystkie ³añcuchy z wektora wprost oraz wspak.
+ * 
+ * 4. Wyœwietliæ tylko te ³añcuchy, które zawieraj¹ zdefiniowan¹ frazê 
+ *    (z podaniem jej po³o¿enia) w ³añcuchu. 
+ *
+ * 5. Napisaæ funkcjê, która zamieni w ka¿dym ³añcuchu podan¹ frazê na inn¹.
+ * 
+ * 6. Napisaæ funkcje pozwalaj¹ce uzupe³niæ metody wektora o push_front, 
+ *    pop_front (czyli z wektora "zrobiæ" kolejkê dwukierunkow¹:).
+ *    
+ * 7. Przetestowaæ dzia³anie wektora-kolejki dodaj¹c lub usuwaj¹c elementy
+ *    z przodu/z ty³u i wyœwietlaj¹c zawartoœæ. Wyœwietlenie zawartoœci
+ *    wektora przeæwiczyæ ze zwyk³¹ pêtl¹, petl¹ zakresow¹ z iteratorem
+ *    wewnêtrznym i zewnêtrznym.
+ *
+ */
