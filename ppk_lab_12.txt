@@ -1,0 +1,14 @@
+/*
+ *=============================================================================
+ * Kontenery
+ *============================================================================= 
+ * 1. Zdefiniowaæ rekord (tuple) opisuj¹cy osobê tj. imiê, nazwisko, numery
+ *    telefonów. Czy da siê opisaæ pole jako nazwisko zamiast get<0>?
+ * 
+ * 2. Zdefiniowaæ ksi¹¿kê telefoniczn¹ (forward_list) i wprowadziæ do niej
+ *    kilka rekordów.
+ * 
+ * 3. Utworzyæ proste menu pozwalaj¹ce dodaæ rekord, usun¹æ, wyœwietliæ
+ *    wszystkie, wyœwietliæ tylko wg danego klucza.
+ *
+ */
