@@ -1,0 +1,18 @@
+/*
+ * Laboratorium 13 - sterta
+ * 
+ * 1. Zadeklarowaæ strukturê element zawieraj¹c¹: wartoœæ typu int oraz wskaŸnik
+ *    na element.  
+ * 
+ * 2. Utworzyæ listê jednokierunkow¹ zawieraj¹c¹ elementy zadeklarowane w p. 1.
+ * 
+ * 3. Dla listy zdefiniowaæ funkcje do jej obs³ugi:
+ *    - wstawianie elementu do listy
+ *    - pobranie elementu z listy
+ *    - pobranie i-tego elementu z listy
+ *    - pobranie wskaŸnika i-tego elementu
+ *    - pobranie liczby elementów
+ *    - usuniêcie elementu
+ *    - usuniêcie ca³ej listy
+ * 
+ */
