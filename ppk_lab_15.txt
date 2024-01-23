@@ -1,0 +1,18 @@
+/*
+ *=============================================================================
+ * Pliki binarne, alokacja pamiêci, we/wy sformatowane
+ *============================================================================= 
+ * 1. Zdefiniowaæ strukturê zawieraj¹c¹ pola: imiê (char*), nazwisko (char*),
+ *    data urodzenia tj. dzieñ (int), miesi¹c (int), rok (int).
+ * 
+ * 2. Utworzyæ funkcjê do obs³ugi pliku, w którym zapisane s¹ struktury
+ *    zdefiniowane w p. 1. tj.:
+ *    - dodaj¹c¹ (dopisuj¹c¹) strukturê do pliku,
+ *    - wyœwietlaj¹c¹ wszystkie struktury z pliku,
+ *    - podaj¹c¹ rozmiar pliku (w bajtach i w liczbie struktur).
+ * 
+ * 3. Utworzyæ tablicê struktur na stercie, do której zapisane zostan¹ wszystkie
+ *    struktury z pliku, wyœwietliæ wszystkie struktury z tablicy.
+ * 
+ * Uwaga: do wyœwietlania u¿yæ funkcji sformatowanych (printf)
+ */
