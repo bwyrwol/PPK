@@ -1,0 +1,54 @@
+
+Laboratorium 3 - Petle, warunki, wyrazenia
+
+Zdefiniowac w programie stale K, M, N i nadac im wartosci calkowite dodatnie
+wieksze od zera. Wszystkie zadania moga byc realizowane w jednym pliku, te ktore
+juz zostaly zrealizowane mozna zakomentowac (/*...*/). Nie usuwac z kodu!
+
+1. Napisaæ program, który wyswietli na konsoli w linii K znakow 'X', nastepnie
+   wyswietli K znakow, przy czym co M-ty ma byc kropka ('.').
+
+2. Napisaæ program, który wyswietli na konsoli prostokat o wymiarach MxN, przy
+   czym raz ma byc wypelniony, a raz pusty (znaki puste oznaczyc kropka '.').
+   Przyklad dla M=7 i N=4
+   XXXXXXX lub XXXXXXX
+   XXXXXXX     X.....X
+   XXXXXXX     X.....X
+   XXXXXXX     XXXXXXX
+
+3. Napisac program, ktory wyswietli trojkat postaci (przyklad dla N = 4)
+   X...
+   XX..
+   XXX.
+   XXXX
+
+4. Napisac program, ktory wyswietli kwadrat o boku K (przyklad dla N = 5)
+   XXXXXXX   a nastepnie doda do niego     XXXXXXX
+   X.....X   przekatne tj. ------------->  XX...XX
+   X.....X                                 X.X.X.X
+   X.....X                                 X..X..X
+   X.....X                                 X.X.X.X
+   X.....X                                 XX...XX
+   XXXXXXX                                 XXXXXXX
+
+5. Napisac program, ktory wyswietli trojkat o podstawie M postaci (przyklad dla
+   M=7)
+   ...X...
+   ..XXX..
+   .XXXXX.
+   XXXXXXX
+   Czy na podstawie M mozna oszacowac jego wysokosc? Okresl zaleznosc.
+   Uwaga: dla M parzystego przyjac M+1.
+
+6. Korzystajac z wynikow z p.5. wyswietlic klepsydre o podstawie M, dla
+   przykladu, dla M=7
+   XXXXXXX
+   .XXXXX.
+   ..XXX..
+   ...X...
+   ..XXX..
+   .XXXXX.
+   XXXXXXX
+   Przyjac, ze M moze byc tez parzyste (wtedy w przewezeniu beda dwa znaki XX).
+
+
