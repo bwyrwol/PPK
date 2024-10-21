@@ -1,0 +1,43 @@
+/*
+ * Laboratorium 3 - tablice, petle
+ * 
+ * Zadania
+ * 
+ * 1. Zdefiniowac tablice N elementowa (N zdefiniowane w programie jako stala),
+ *    wypelnic tablice elementami o wartosciach typu int (2*i+1), gdzie i jest
+ *    indeksem tablicy. Wyświetlić na konsoli: rozmiar tablicy w pamieci oraz
+ *    wszystkie elementy.
+ * 
+ * 2. Napisac fragment kodu zmieniajacego kolejnosc elementow w tablicy tj.
+ *    ostatnia wartosc ma byc pierwsza, pierwsza ostatnia itd. Wynik wyswietlic
+ *    na konsoli.
+ *
+ * 3. Zdefiniowac nowa tablice N elementowa i zainicjowac dowolnymi wartosciami,
+ *    np. int tablica2[] = {13,26,8,43,-6,0,18,26};
+ *    Napisać fragment kodu sortujacy tablice od wartosci najmniejszej do
+ *    najwiekszej (lub odwrotnie). Wynik sortowania wyswietlic na konsoli.
+ *
+ * 4. Zamienic elementy w tablicy2 na wartosc bezwzgledna, wyswietlic na konsoli,
+ *    nastepnie dla kazdego elementu obliczyc pierwiastek i wyniki przepisac do
+ *    nowo zdefiniowanej tablicy3.
+ *
+ * 5. Zdefiniowac tablice zawierajaca elementy typu char, zainicjowac dowolnymi
+ *    znakami
+ *    np. char znaki[] = {'L','a','b','o','r','k','a',' ','P','P','K',0};
+ *    Przyjac, ze ostatnim elementem tablicy jest zawsze wartosc 0.
+ *    Wyświetlic napis na konsoli.
+ *
+ * 6. Zamienic wszystkie litery z tablicy znaki z malych na duze, z duzych
+ *    na male.
+ *    Wyświetlic napis na konsoli.
+ *
+ * 7. Sprawdzic ile razy w tablicy znaki wystepuje kazda z liter 'a'-'z'.
+ *    Wyświetlic wynik na konsoli.
+ * 
+ * 8. Wyszukac w tablicy znaki pierwsza litere np. 'a' i wyswietlic jej indeks.
+ *
+ * 9. Zdefiniowac tablice dwuwymiarowa NxN, zainicjowac przykladowymi wartosciami.
+ *    Wyswietlic tablice na konsoli.
+ *    Napisac fragment kodu zamieniajacy miejscami wiersze i kolumny tablicy.
+ *    Wyswietlic tablice na konsoli. 
+ */
