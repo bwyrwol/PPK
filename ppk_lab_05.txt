@@ -1,0 +1,27 @@
+/*
+ * Laboratorium 5 - FUNKCJE
+ * =============================================================================
+ *
+ * 1. Zdefiniowac funkcje wyznaczajaca (zwracajaca) wartosc bezwzgledna podanego
+ *    argumentu. W funkcji mile widziany operator '?'.
+ * 
+ * 2. Zdefiniowac funkcje, ktora sprawdza czy podany znak jest cyfra, duza
+ *    litera czy mala litera (mozna wykorzystac typ wyliczeniowy, ale uwaga: nie
+ *    da sie w prosty sposob wyswietlic wyniku).
+ *
+ * 3. Zdefiniowac funkcje, ktora wyznacza silnie z podanej liczby (rekurencja
+ *    mile widziana).
+ *
+ * 4. Zdefiniowac funkcje, ktora wyznacza sume liczb calkowitych od 1 do n,
+ *    gdzie n jest argumentem funkcji.
+ *
+ * 5. Zdefiniowac funkcje wyznaczajaca pole trojkata/trapezu/prostokata/kola
+ *    dla podanych argumentow (osobne lub jedna funkcja; dla jednej funkcji
+ *    argumentem moze byc typ figury - typ wyliczeniowy).
+ *
+ * 6. Zdefiniowac funkcje, ktora wyznacza pierwiastki rownania kwadratowego.
+ *
+ * 7. Zdefiniowac funkcje, ktora zamienia maly znak na duzy, a duzy na maly.
+ *    Argument przekazac przez referencje.
+ *
+ */
