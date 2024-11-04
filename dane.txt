@@ -1,0 +1,12 @@
+; Plik testowy (laboratorium 5)
+; Kwadrat: bok
+Kwadrat 10
+;Prostokat: bok1 bok2
+Prostokat 20 10
+;Kolo: promien
+Kolo 23
+; Trojkat: podstawa wysokosc
+Trojkat 10 20
+; Trapez: podstawa1 podstawa2 wysokosc
+Trapez 10 20 5
+
