@@ -1,0 +1,35 @@
+/*
+ * Laboratorium 7 (powtorzenie)
+ *
+ * Zadania
+ *
+ * Dostepne sa dwa pliki MacierzA.txt oraz MacierzB.txt zawierajace tablice
+ * dwuwymiarowe (macierze) z przykladowymi liczbami. Pliki z danymi nalezy
+ * wczytac do programu jako argumenty wywolania (np. z linii polecen):
+ *   program.exe MacierzA.txt MacierzB.txt wyniki.txt
+ * 
+ * Dokonac podzialu projektu na moduly (pliki *.cpp i *.h) i zgrupowac funkcje
+ * do obliczen na macierzach w jednym module (bibliotece).
+ *
+ * 1. Napisać program wyświetlający wszystkie argumenty wywołania
+ *
+ *    W środowisku VS wprowadzanie argumentów:
+ *    Projekt->Właściwości->Debugowanie->Argumenty polecenia
+ *
+ *    Przejść do explorera Windows, wyszukać katalog z plikiem wykonywalnym exe
+ *    i z poziomu konsoli Windows (cmd) wywołać go z parametrami.
+ *
+ * 2. Napisac funkcje, ktora wyznaczy 
+ *    - wymiary macierzy jaka zapisana jest w okreslonym pliku,
+ *    - sume wszystkich elementow macierzy,
+ *    - wartosc sredna wszystkich elementow,
+ *    - sume elementow znajdujacych sie na przekatnej (wybrac ktorej),
+ *    - sprawdzi czy macierz nie jest zerowa (wszystkie elementy sa zerami).
+ *
+ * 3. Napisac funkcje, ktora wyznaczy sume, roznice, iloczyn, iloraz elementow
+ *    macierzy opisanych w plikach. Macierze musza byc tych samych rozmiarow!
+ *    Jeżeli sa roznych rozmiarow i nie da sie policzyc wyniku, wtedy zwrocic
+ *    wartosc sygnalizujaca, ze nie dalo sie wykonac dzialania.
+ *    Wyniki dzialania zapisac w pliku wyniki.txt.
+ *
+ */
