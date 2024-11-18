@@ -1,0 +1,35 @@
+/*
+ * Laboratorium 8
+ *
+ * W pliku tekstowym znajduj¹ siê rekordy postaci (rozdzielone pustymi liniami)
+ * z danymi studentow:
+ *
+ * [nr albumu]
+ * [nazwisko] [imie] [data urodzenia rrrr-mm-dd]
+ * [numer] [nazwa przedmiotu] [oceny]
+ *
+ * Przykladowy plik z danymi dostepny na github.com
+ *
+ * 1. Otworzyc plik z danymi (nazwa wprowadzona jako argument wywolania) i
+ *    wyswietlic jego zawartosc na konsoli.
+ *
+ * 2. Wyluskac z danych opisujacych dowolnego studenta wszystkie dane i je
+ *    wyswietlic w oknie konsoli (oceny umiescic w tablicy std::array).
+ *
+ * 3. Przy wyluskiwaniu sprawdzac poprawnosc danych (czy tekst to string a
+ *    wartosc to int/float) i sygnalizowac niepoprawne dane.
+ *
+ * 4. Opracowac biblioteke (plik naglowkowy *.h i implementacyjny *.cpp) do
+ *    obslugi pliku z danymi zawierajacy funkcje:
+ *    - odczyt i wyswietlenie pojedynczego rekordu dla podanego [nr albumu],
+ *    - zmiana nazwiska dla podanego [nr albumu],
+ *    - utworzenie nowego rekordu,
+ *    - dodanie przedmiotu dla podanego [nr albumu],
+ *    - dodanie oceny dla podanego [nr albumu] i [numer]u przedmiotu,
+ *    - wyznaczenie sredniej dla kazdego przedmiotu dla podanego [nr albumu],
+ *    - uaktualnienie rekordow w pliku,
+ *    - wyznaczenie liczby rekordow w pliku,
+ *    - wyznaczenie liczby przedmiotow dla podanego [nr albumu],
+ *    - wyznaczenie liczby ocen dla podanego [nr albumu] i [numeru].
+ *
+ */
