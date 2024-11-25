@@ -1,0 +1,40 @@
+/*
+ * Laboratorium 7 - vector, string
+ *
+ * 1A. Zdefiniowaæ w programie zmiann¹ typu vector zawieraj¹c¹ elementy typu int
+ *     zainicjowaæ przyk³adowymi wartoœciami (kilkoma, wykorzystaæ listê
+ *     inicjalizuj¹c¹). Wyœwietliæ na konsoli wszystkie elementy wektora.
+ *
+ * 1B. Sprawdziæ jaki jest rozmiar (size) i pojemnoœæ (capacity) zdefiniowanego
+ *     wektora. Dodaæ w pêtli kilka elementów do wektora (push_back) i za ka¿dym
+ *     dodaniem sprawdziæ jak zmieni³y siê rozmiar i pojemnoœæ.
+ *
+ * 2.  W pliku zapisana jest tablica dwuwymiarowa liczb ca³kowitych. Napisaæ
+ *     funkcje:
+ *     a) odczytuj¹c¹ zawartoœæ pliku i zapisuj¹c¹ j¹ w wektorze (dwuwymiarowym);
+ *     b) wyznaczaj¹c¹ element najwiêkszy (najmniejszy) z podaniem jego
+ *     wspó³rzêdnych (jak jest kilka takich elementów to podawane s¹ wspó³rzêdne
+ *     ostatniego pierwszego znalezionego);
+ *     c) wyznaczaj¹c¹ sumê wszystkich elementów;
+ *     d) wyznaczaj¹c¹ œredni¹ wszystkich elementów;
+ *     e) zamieniaj¹c¹ wiersze z kolumnami (nawet jak nie jest tablic¹ o takich
+ *     samych wymiarach);
+ *     f) wyœwietlaj¹c¹ zawartoœæ tablicy.
+ *
+ * 3.  Wczytaæ z klawiatury (lub dla celów testowych zdefiniowaæ w programie)
+ *     dowolny tekst (kilka wyrazów oddzielonych spacjami).
+ *     Zamieniæ kolejnoœæ wyrazów w tekœcie i wyœwietliæ wynik na konsoli.
+ *     Zamieniæ kolejnoœæ liter w ka¿dym wyrazie i wyœwietliæ wynik w oknie
+ *     konsoli. (operacje zamiany najlepiej zrealizowaæ jako funkcje)
+ *
+ * 4.  W pliku tekstowym "lokomotywa.txt" zawarty jest tekst wiersza. Napisaæ
+ *     funkcje
+ *     a) wyszukuj¹c¹ w tekœcie podany wyraz i podaj¹c¹ wszystkie jego wyst¹pienia
+ *        wraz z po³o¿eniem (wiersz, numer wyrazu w wierszu);
+ *     b) wyszukuj¹c¹ w ca³ym tekœcie podan¹ literê (znak) i podaj¹c¹ liczbê jej
+ *        wyst¹pieñ.
+ *
+ * 5. W oparciu o punkt 4 napisaæ program podaj¹cy statystykê wyst¹pienia
+ *    ka¿dej litery alfabetu w podanym pliku tekstowym.
+ *
+ */
