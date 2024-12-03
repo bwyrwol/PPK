@@ -1,0 +1,45 @@
+/*
+ * Laboratorium 10
+ * [struktury (wektor struktur), unie, pair, tablice asocjacyjne (uporzadkowane,
+ * nieuporz¹dkowane)]
+ *
+ * 1.  Zdefiniowaæ w programie strukturê Punkt opisuj¹c¹ wspó³rzêdne (x,y) 
+ *     punktu w kartezjañskim uk³adzie wspó³rzêdnych. Zdefiniowaæ kilka 
+ *     zmiennych typu Punkt i przypisaæ im przyk³adowe wartoœci. 
+ *     Napisaæ funkcje:
+ *     - sprawdzaj¹c¹, w której æwiartce uk³adu wspó³rzêdnych znajduje siê
+ *       dany punkt,
+ *     - obliczaj¹c¹ odleg³oœæ miedzy dwoma punktami.
+ *
+ * 2. Napisaæ program wczytuj¹cy wspó³rzêdne punktów (dowolna liczba), 
+ *    zapamiêtaæ je w wektorze struktur, a nastêpnie wyznaczyæ d³ugoœæ tak 
+ *    podanej œcie¿ki. Wykorzystaæ pêtle zakresowe.
+ * 
+ * 3. Opracowaæ wersjê z punktu 1 i 2 wykorzystuj¹c¹ zamiast struktury pair.
+ * 
+ * 4. Wykorzystuj¹c uniê napisaæ funkcjê do zamiany kolejnoœci bajtów w liczbie
+ *    typu int (short int, long long int).
+ * 
+ * 5. Napisaæ program wyznaczaj¹cy wszystkie odleg³oœci pomiêdzy miastami
+ *    (dla uproszczenia wspó³rzêdne jak w uk³adzie kartezjañskim). Miasta
+ *    i ich po³o¿enia dostêpne s¹ w pliku tekstowym w formacie (przyk³ad): 
+ * 
+ *    MiastoA 12.5 15
+ *    MiastoB -15 22
+ *    ...
+ *
+ * 6. Wykorzystuj¹c tablice asocjacyjne (i inne dowolne kontenery) utworzyæ
+ *    ksi¹¿kê telefoniczn¹, z mo¿liwoœci¹ wyszukiwania, zawieraj¹c¹ pola:
+ *    - nazwisko, imiê,
+ *    - numer telefonu (opcjonalnie wraz z dodatkow¹ informacj¹: Praca, Dom,
+ *      Komorka, Inny). 
+ *    Utworzyæ proste menu pozwalaj¹ce:
+ *    - wyœwietliæ wszystkie rekordy,
+ *    - wyszukiwaæ rekordy wg numeru lub nazwiska, w przypadku nie znalezienia
+ *      program proponuje dodanie nowego rekordu,
+ *    * wyœwietlanie/wyszukiwanie wg klucza zawieraj¹cego tylko pocz¹tkowe
+ *      litery nazwiska lub pocz¹tkowe cyfry numeru.
+ *    * dodaæ opcjê zapisu/odczytu rekordów do/z pliku.
+ *
+ */
+
