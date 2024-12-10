@@ -1,0 +1,43 @@
+/*
+ * Laboratorium 11
+ * Powtórzenie
+ *============================================================================= 
+ *
+ * Napisaæ w³asne funkcje (umieœciæ w plikach *.c/*.h):
+ *  
+ * 1. Sprawdzaj¹ce czy podany znak jest:
+ *     - du¿¹ liter¹,
+ *     - ma³¹ liter¹, 
+ *     - cyfr¹.
+ * 
+ * 2. Zamieniaj¹ce literê na: du¿¹, ma³¹, z ma³ej na du¿¹ i odwrotnie.
+ * 
+ * 3. Zamieniaj¹ce wartoœæ ca³kowit¹ na ³añcuch znaków (char[] lub string) 
+ *    przedstawiaj¹cy liczbê w postaci:
+ *    dziesiêtnej, heksadecymalnej, ósemkowej i binarnej.
+ *
+ * 4. Zamieniaj¹c¹ czas podany w formacie hh, mm, ss na wartoœæ sekund,
+ *    zamieniaj¹c¹ wartoœæ sekund na hh, mm, ss,
+ *    obliczaj¹c¹ ró¿nicê/sumê dwóch czasów podanych jako hh, mm, ss,
+ *    zamieniaj¹c¹ czas na postaæ ³añcucha znaków w formacie "hh:mm:ss".
+ *    Uwaga: czas zakodowany jako wartoœci ca³kowite hh, mm, ss
+ *           w postaci struktury.
+ *
+ * ----------------------------------------------------------------------------
+ * 5. W pliku tekstowym podana jest plansza "gry w statki", wyznaczyæ liczbê
+ *    i typ umieszczonych tam statków. Za³o¿yæ, ¿e u³o¿one s¹ tylko pionowo
+ *    lub poziomo. Rozmiar planszy mo¿e byæ dowolny.
+ *    Przyk³ad:
+ *    .XXXX.......
+ *    ..........XX
+ *    ...X........
+ *    ...X...X....
+ *    ...X........
+ *    .........X..
+ *    XXXX.....X..
+ *    ......X..X..
+ *    .XXX..X..X..
+ *    ......X..X..
+ *    ............
+ *    ....XXXXX...
+ */
