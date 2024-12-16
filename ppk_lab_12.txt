@@ -1,0 +1,31 @@
+/*
+ * Laboratorium 12 - wskaŸniki
+ *
+ * 1. Zadeklarowaæ strukturê wydarzenie zawieraj¹c¹ pola: godzina, minuty,
+ *    nazwa (³añcuch znaków o d³ugoœci nie przekraczaj¹cej 40).
+ *
+ * 2. Zdefiniowaæ funkcje:
+ *    void wydarzenie_dodaj_nazwe(wydarzenie* _wydarzenie, char* _nazwa);
+ *    void wydarzenie_dodaj_czas(wydarzenie* _wydarzenie, int _godzina, int _minuty);
+ *    void wydarzenie_wyswietl(wydarzenie* _wydarzenie);
+ *    oraz zmienn¹ lokaln¹ typu wydarzenie dla przetestowania ww. funkcji.
+ *    Zwróciæ uwagê na przekazywanie argumentów przez wskaŸnik. Jak zmieniæ deklaracje
+ *    (definicje) funkcji, aby wybrane argumenty nie by³y modyfikowane w funkcji
+ *    (np. dla wydarzenie_wyswietl(...)).
+ *
+ * 3. Utworzyæ dzienn¹ tablicê wydarzeñ np. wydarzenie rozklad_dnia[LICZBA_WYDARZEN].
+ *    Opracowaæ funkcje (argumenty przekazywaæ w miarê mo¿liwoœci przez wskaŸnik):
+ *    void rozklad_dnia_dodaj_wydarzenie(...); // trzeba zapamiêtaæ aktualn¹ liczbê wydarzeñ,
+ *           aktualnie dodawane jest zapamiêtywane jako ostatni element tablicy
+ *    void wydarzenia_wyswietl(...); // wyœwietla wszystkie wydarzenia po kolei
+ *    Przetestowaæ dzia³anie funkcji dla przyk³adowych danych.
+ *
+ * 4. Uzupe³niæ program o funkcje: usuwaj¹c¹ wydarzenie z planu dnia, sortuj¹c¹ wydarzenia wg. czasu
+ *    ich wyst¹pienia (od najwczeœniejszych do najpóŸniejszych), sprawdzaj¹c¹ zgodnoœæ podanego
+ *    czasu z czasem wydarzeñ.
+ *
+ * 5. (TRUDNE) W programie zdefiniowane s¹ zmienne lokalne typu wydarzenie (struktura) oraz tablica
+ *    wydarzeñ (struktur). Napisaæ uniwersaln¹ funkcjê, która pozwoli wyzerowaæ zmienne lokalne
+ *    dowolnego typu.
+ *
+ */
