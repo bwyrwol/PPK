@@ -1,0 +1,37 @@
+/*
+ *=============================================================================
+ * Iteratory
+ *=============================================================================
+ *
+ * 1A. Zdefiniowaæ w programie zmiann¹ typu vector zawieraj¹c¹ elementy typu int
+ *     zainicjowaæ przyk³adowymi wartoœciami (kilkoma, wykorzystaæ listê
+ *     inicjalizuj¹c¹). Wyœwietliæ na konsoli wszystkie elementy wektora:
+ *     - klasyczn¹ pêtl¹ for(...),
+ *     - pêtl¹ zakresow¹ for(...) z iteratorem wewnêtrznym,
+ *     - pêtl¹ zakresow¹ for(...) z iteratorem zewnêtrznym.
+ *
+ *=============================================================================
+ * Funkcja LAMBDA
+ *=============================================================================
+ * 1. Zdefiniowaæ funkcjê wyœwietlaj¹c¹ na konsoli jedn¹ liczbê typu int
+ *    void print(const int i);
+ *    np. w postaci: [3]
+ *
+ * 2. Zdefiniowaæ funkcjê wyœwietlaj¹c¹ wszystkie elementy wektora
+ *    void vector_print(const std::vector<int>& vec);
+ *    wykorzystaæ pêtlê for_each i zdefiniowan¹ wczeœniej funkcjê print.
+ *
+ * 3. Zdefiniowaæ w programie wektor i nadaæ mu kilka wartoœci (minimum 5).
+ *    Wyœwietliæ elementy wektora funkcj¹ vector_print().
+ *
+ * 4. Za pomoc¹ pêtli for_each zamieniæ wszystkie elementy wektora na przeciwne.
+ *    Wykorzystaæ funkcjê Lambda. Wyœwietliæ wynik funkcj¹ vector_print().
+ *
+ * 5. Wyœwietliæ, wykorzystuj¹c pêtlê for_each, wszystkie elementy wektora
+ *    mniejsze od pewnej wartoœci (funkcja Lambda z parametrem).
+ *
+ * 6. Posortowaæ wektor (sort(...)) zgodnie z wartoœci¹ modu³u liczby, ale
+ *    wyœwietliæ liczby z formatem pierwotnym np. dla -10,20,-3,5,1 wynikiem
+ *    powinno byæ: 1,-3,5,-10,20. Wykorzystaæ pêtlê for_each z odpowiednio
+ *    skonstruowan¹ funkcj¹ Lambda.
+ */
