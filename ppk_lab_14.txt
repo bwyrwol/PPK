@@ -1,0 +1,18 @@
+/*
+ * Laboratorium 14 - sterta, wskaŸniki
+ * 
+ * 1. Zadeklarowaæ strukturê Element zawieraj¹c¹: wartoœæ typu int oraz wskaŸnik
+ *    na Element.
+ *
+ * 2. Utworzyæ listê jednokierunkow¹ zawieraj¹c¹ elementy zadeklarowane w p. 1.
+ *
+ * 3. Dla listy zdefiniowaæ funkcje do jej obs³ugi:
+ *    - wstawianie elementu do listy (na pocz¹tek, koniec, w dowolnym miejscu)
+ *    - pobranie elementu z listy
+ *    - pobranie i-tego elementu z listy
+ *    - pobranie wskaŸnika i-tego elementu
+ *    - pobranie liczby elementów
+ *    - usuniêcie elementu
+ *    - usuniêcie ca³ej listy
+ *
+ */
