@@ -1,0 +1,20 @@
+/*
+ * Laboratorium 15 - lancuchy znakow, inteligentne wskaźniki, biblioteka standardowa
+ *
+ * 1. Zdefiniować dwa łańcuchy znaków (C) i przypisać do jednego dowolny ciąg znaków (S1),
+ *    drugi pozostawić pusty (S2). Raz założyć, że łańcuch znaków nie będzie przekraczał
+ *    wartości 20, w drugim przypadku dobrać długość łańcucha dynamicznie (starta).
+ * 2. Napisać funkcję pozwalającą skopiować zawartość łańcucha S1 do S2 (analog funkcji
+ *    strcpy()). Wyświetlić zawartość łańcuchów S1 i S2 na konsoli.
+ * 3. Uzupełnić funkcję z punktu 2, tak aby kopiowanych było tylko n znaków (n podane jako
+ *    parametr funkcji).
+ * 4. Napisać funkcję porównującą dwa dowolne łańcuchy znaków (analog strcmp()).
+ *
+ * 5. Zmodyfikować funckję z p. 2 tak, by można kopiować dowolne dane/struktury danych
+ *    (np. zmienne proste, tablice, struktury, ...). Przetestować jej działanie.
+ *
+ * 6. Wykorzystać inteligentny wskaźnik do przechowywania adresu łańcucha znaków,
+ *    przetestować na funkcji z p. 2.
+ *    
+ * 7. Do wyświetlania łańcuchów z p.1-6 wykorzystać funkcję formatującą printf().
+ */
